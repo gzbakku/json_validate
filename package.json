@@ -1,14 +1,24 @@
 {
-  "name": "json_validate",
+  "name": "json_validate_schema",
   "version": "1.0.0",
-  "description": "json schema based validation",
+  "description": "json validation",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gzbakku/json_validate.git"
+  },
   "keywords": [
-    "json_validate"
+    "json",
+    "validate",
+    "schema"
   ],
-  "author": "akku",
-  "license": "ISC"
+  "author": "akku dutt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gzbakku/json_validate/issues"
+  },
+  "homepage": "https://github.com/gzbakku/json_validate#readme"
 }
