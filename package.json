@@ -1,0 +1,14 @@
+{
+  "name": "json_validate",
+  "version": "1.0.0",
+  "description": "json schema based validation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "json_validate"
+  ],
+  "author": "akku",
+  "license": "ISC"
+}
