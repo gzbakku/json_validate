@@ -4,10 +4,8 @@ module.exports = {
 };
 
 function error(e){
-  return {
-    result:'error',
-    error:e
-  };
+  console.log(e);
+  return false;
 }
 
 function json(schema,data,schema_type,maxSize){
